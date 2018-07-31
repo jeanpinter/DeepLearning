@@ -1,3 +1,3 @@
-## DeepLearning 
+#### DeepLearning 
 
-### This repository contains code I wrote while exploring artificial neural networks
+##### This repository contains code I wrote while exploring artificial neural networks
